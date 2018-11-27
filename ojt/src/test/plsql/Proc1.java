@@ -42,5 +42,6 @@ public class Proc1 {
             try{ con.close(); }catch(Exception e){}    
         }
         System.out.println("정상적으로 실행되었습니다.");
+        System.out.println("실패했어");
     }
 }
